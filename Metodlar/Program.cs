@@ -32,7 +32,7 @@ namespace Metodlar
                 Console.WriteLine("------------------");
 
             }
-            Console.WriteLine("\n----------------METODLAR------------\n");
+            Console.WriteLine("\n----------------METODLAR-------------\n");
             //instance-orenek
             //encapsulation 
             SepetManager sepetManager = new SepetManager();
